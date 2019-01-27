@@ -1,0 +1,30 @@
+/* add your CSS here */
+img {
+  width: 300px;
+  margin: 0 5px 5px 10px;
+}
+h3 {
+  margin-left: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style-type: none; /* removes bullets*/
+  padding: 0; /* removes margin of the bullets*/
+ 
+}
+.container {
+  border: solid #d7dfea 0.05px;
+  width: 320px; 
+  margin: auto; /*centers the page on the browser*/
+  box-shadow: 5px 5px #e6eaef;
+}
+.description {
+width: 300px;
+border: solid #d7dfea 0.05px;
+margin: 5px 5px 10px 10px;
+padding: 0 10px 0 10px;
+box-sizing: border-box; /*Include padding and border in the element's total width and height*/
+text-justify: auto;
+
+}
